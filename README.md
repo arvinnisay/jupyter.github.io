@@ -1,4 +1,4 @@
-# Jupyter's main website
+git # Jupyter's main website
 
 This is the source to [Jupyter.org](https://jupyter.org/).
 
